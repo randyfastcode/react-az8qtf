@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import  './style.css';
-import'./index.js';
+//import'./index.js';
 
 function app(){
 
